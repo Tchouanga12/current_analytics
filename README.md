@@ -30,4 +30,11 @@ To set up the project locally, clone the repository and install the required dep
 git clone https://github.com/Tchouanga12/current_analytics.git
 cd current_analytics
 pip install -r requirements.txt
+```
+### Visualize the dashboard
+```bash
+http://localhost:8050
+
+
+
 
